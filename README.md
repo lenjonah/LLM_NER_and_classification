@@ -10,7 +10,7 @@ and for sentence classification, i.e., determining the topic of a sequence, in t
 ```
 using the huggingface package in both cases.
 
-Finally, a single model is finetuned to do both tasks simulateously with a single forward pass in the notebook
+Finally, a single BERT model is finetuned to do both tasks simulateously with a single forward pass in the notebook
 ```
     Multitask.ipynb
 ```
